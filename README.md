@@ -1,1 +1,1 @@
-# whmcs-addon
+# whmcs-sync-addon
