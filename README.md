@@ -23,5 +23,5 @@ created.
 You are open to make any contributions. If you would like to add a new 
 feature or fix a bug please send us an email; codewithus (at) nextdeveloper.com.
 
-Many thanks to [https://domainmerkezi.net/](Domain Merkezi) for their 
+Many thanks to [Domain Merkezi](https://domainmerkezi.net/) for their 
 time and efforts which helps this package be created.
